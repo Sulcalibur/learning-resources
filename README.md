@@ -60,21 +60,18 @@ The learning is achievement based using a 'gamification' system.
 
 ### Learning Resources on Youtube
 
-
 [New Boston](http://www.youtube.com/user/thenewboston)
-
 
 ### Extras that need checking and filtering
 
-[Vision2Learn](http://vision2learn.net/)
-[Class Central](http://www.class-central.com/)
-[Udacity](https://www.udacity.com/)
-[Open Culture](http://www.openculture.com/free_certificate_courses)
-[Alison](http://alison.com/)
-[Google dev](https://developers.google.com/university/courses/)
-[W8 dev](http://www.zipapp.co.uk/)
-[Future Learn](https://www.futurelearn.com/courses)
-
-[Gov UK](https://www.gov.uk/government/publications/massive-open-online-courses-and-online-distance-learning-review)
+- [Vision2Learn](http://vision2learn.net/)
+- [Class Central](http://www.class-central.com/)
+- [Udacity](https://www.udacity.com/)
+- [Open Culture](http://www.openculture.com/free_certificate_courses)
+- [Alison](http://alison.com/)
+- [Google dev](https://developers.google.com/university/courses/)
+- [W8 dev](http://www.zipapp.co.uk/)
+- [Future Learn](https://www.futurelearn.com/courses)
+- [Gov UK](https://www.gov.uk/government/publications/massive-open-online-courses-and-online-distance-learning-review)
 
 
