@@ -1,4 +1,64 @@
-learning-resources
-==================
+`This is a real rough version at the moment`
 
-A list of Education Resources online
+# Learning Resources
+### A list of online learning resources that we use as a family
+
+### IT, Web Design, Web Development and Application Design
+
+I.T. is one of the easier subject to learning online, most probably because you have already started just by looking.
+
+- [Team Treehouse](http://sulc.me/1e25CDo) **Premium**
+- [Codecademy](http://sulc.me/18JVl6q) **Free**
+- [TutsPlus](http://sulc.me/1e269oL) **Premium**
+- [TutsPlus Free Courses](http://freecourses.tutsplus.com/) **Free**
+- [LevelUp Tuts](http://leveluptuts.com/) **Free** 
+- [Learn Street](http://www.learnstreet.com/) **Free**
+- [Code School](http://www.codeschool.com/) **Premium**
+- [Hackety Hack](http://hackety.com/) (Ruby) **Free**
+
+Others:
+- [Code Avengers](http://www.codeavengers.com/)
+
+### Maths, Science, Economics, Finance, Humanities and Computer Programming.
+
+[Khan Academy](http://sulc.me/18JW9bz) **Free*
+
+Khan Academy is a truly outstanding resource for learning. Their [mission](https://www.khanacademy.org/about) is "A free world-class education for anyone anywhere" and they full fill their promise. The site and service just recently had an update and it's looking better than ever. The approach to earning is great also with many subjects having videos showing a 'black board' style tutorial with a teaching guiding the student through the process.
+
+- iOS app
+- Coaching for teams
+- Online Stats
+- Comparison
+- Wide range of subjects.
+
+### Languages
+
+[DuoLingo](http://www.duolingo.com) **Free**
+
+Language learning courses for:
+- Spanish
+- French
+- German
+- Italian
+- Portuguese
+The learning is achievement based using a 'gamification' system. 
+
+- iOS and Android App
+- Friends achievements via Facebook
+
+[Live Mocha](http://livemocha.com/)
+
+### Learn vocabulary, languages, history, science, trivia and just about anything else
+
+[Memrise](http://www.memrise.com/)
+
+
+### Udemy
+
+[Udemy Courses](https://www.udemy.com/)
+
+
+### Learning Resources on Youtube
+
+
+[New Boston](http://www.youtube.com/user/thenewboston)
