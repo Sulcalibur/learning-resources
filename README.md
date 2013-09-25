@@ -52,6 +52,10 @@ The learning is achievement based using a 'gamification' system.
 
 [Memrise](http://www.memrise.com/)
 
+### Brain Training
+
+[Lumosity](http://www.lumosity.com/)
+
 
 ### Udemy
 
