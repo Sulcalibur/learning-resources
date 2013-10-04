@@ -81,3 +81,6 @@ The learning is achievement based using a 'gamification' system.
 - [OpenLearn](http://www.open.edu/openlearn/),[OpenLearn alt Link](http://www.open.edu/openlearn/about-openlearn/try?gclid=COLUkeqd3bkCFe_LtAodZhsAcA)
 - [750 Free Online Courses from Top Universities](http://www.openculture.com/freeonlinecourses)
 - [Fat Coding Resource](http://www.webdesigndegreecenter.org/learn-to-code/)
+- [Perfect Workflow in Sublime Text 2](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
+
+
