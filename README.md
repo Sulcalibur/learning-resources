@@ -83,5 +83,7 @@ The learning is achievement based using a 'gamification' system.
 - [Fat Coding Resource](http://www.webdesigndegreecenter.org/learn-to-code/)
 - [Perfect Workflow in Sublime Text 2](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 - [Canvas Online Courses](https://www.canvas.net/)
+- [Reading Bear](http://www.readingbear.org/)
+- [Watch Know Learn](http://www.watchknowlearn.org/)
 
 
