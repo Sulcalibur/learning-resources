@@ -85,5 +85,5 @@ The learning is achievement based using a 'gamification' system.
 - [Canvas Online Courses](https://www.canvas.net/)
 - [Reading Bear](http://www.readingbear.org/)
 - [Watch Know Learn](http://www.watchknowlearn.org/)
-
+- [Code Combat](http://codecombat.com/)
 
