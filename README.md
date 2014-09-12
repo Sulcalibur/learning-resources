@@ -86,4 +86,5 @@ The learning is achievement based using a 'gamification' system.
 - [Reading Bear](http://www.readingbear.org/)
 - [Watch Know Learn](http://www.watchknowlearn.org/)
 - [Code Combat](http://codecombat.com/)
-
+- [Code.org](http://code.org/educate)
+- [iTunes U](https://www.apple.com/education/ipad/itunes-u/)
